@@ -37,7 +37,7 @@ a:visited {
   color: white;
 }
 .text-center {
-  font-family: Montserrat;
+  font-family: 'Kanit', sans-serif;
   font-style: Medium;
   font-size: 15px;
   line-height: 18px;
