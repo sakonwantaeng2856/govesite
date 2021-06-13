@@ -13,13 +13,26 @@
   color: rgb(255, 0, 0);
 }
 .text1 {
-  font-family: Montserrat;
-  font-style: Regular;
-  font-size: 40px;
+  font-size: 45px;
   line-height: 80px;
   line-height: 146%;
   align: Right;
   vertical-align: Center;
   letter-spacing: -1.5%;
-  color: #000000;
+}
+.text2 {
+  font-size: 22px;
+  line-height: 30px;
+  line-height: 112%;
+  align: Right;
+  vertical-align: Center;
+  letter-spacing: -1.5%;
+}
+.text3 {
+  font-size: 22px;
+  line-height: 30px;
+  line-height: 112%;
+  align: Right;
+  vertical-align: Center;
+  letter-spacing: -1.5%;
 }

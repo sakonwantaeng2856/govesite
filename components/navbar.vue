@@ -15,7 +15,7 @@
       <v-col cols="4">
         <div class="float-right">
           <a href="" class="mr-5">เข้าสู่ระบบ</a>
-          <v-btn class="green">สมัครใช้งาน</v-btn>
+          <v-btn class="green" color="success">สมัครใช้งาน</v-btn>
         </div>
       </v-col>
     </v-app-bar>
@@ -28,15 +28,24 @@ export default {}
 
 <style>
 /* @import './assets/index.css'; */
-a {
+a:link,
+a:visited {
   text-decoration: none;
   color: black;
 }
-.nuxt-link-active {
-  color: black;
-}
-
 .green {
-  color: #198754;
+  color: white;
+}
+.text-center {
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 15px;
+  line-height: 18px;
+  line-height: 100%;
+  align: Center;
+  vertical-align: Center;
+  letter-spacing: -1.5%;
+  fill: Solid;
+  color: #09240e;
 }
 </style>

@@ -7,21 +7,23 @@
             <v-col class="mt-5">
               <h1 class="text1 float-right">ระบบเว็บไซต์หน่วยงานสำเร็จรูป</h1>
             </v-col>
-            <v-col class="mt-4">
-              <h3 class="text2 float-right">
+            <v-col class="mt-5">
+              <h3 class="text2 float-right mt-4">
                 สร้างไซต์หน่วยงานท่านได้ตัวเอง ง่าย เร็ว สวยงาม
               </h3>
             </v-col>
             <v-col class="mt-2">
-              <h3 class="text3 float-right">
+              <h3 class="text3 float-right mt-3">
                 MANAGE YOUR ORGANIZATION , EASY , FAST , BEAUTIFUL
               </h3>
             </v-col>
             <v-col class="float-right">
-              <v-btn class="float-right" color="success">ทดลองใช้งาน</v-btn>
+              <v-btn class="float-right mt-3" color="success"
+                >ทดลองใช้งาน</v-btn
+              >
             </v-col>
             <v-col class="day">
-              <h3 class="text4 float-right">
+              <h3 class="text4 float-right mt-3">
                 * สมัครใช้งานวันนี้ทดลองใช้ฟรี 30วัน
               </h3>
             </v-col>
