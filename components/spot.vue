@@ -38,14 +38,21 @@
             แสดงผลได้อย่าง "สมบูรณ์แบบ"
           </div>
         </v-col>
-
-        <v-col cols="2">
+        <v-col cols="3">
           <div class="d-flex justify-center">
             <v-img
               max-width="100"
               max-height="100"
               src="https://s3-alpha-sig.figma.com/img/cac4/340e/c77a8b731cb49b40deaae2d3db889bb6?Expires=1623628800&Signature=M5UGsqDXsev1Wkf3a--2ze2aAe~lY0PVkqK4xUfGaQVyCpJpSj9F3BJRyXb~3a8z~9LEQ0X~Zx0I-f-NC5Om4KN5wF9FJL~hmNburq-QD3UMOwWxZO3IZ9d4m7oad7n51FeK~YD1BNGDdAnGoasiDAG8tjrXkjrNi55OtC56akrDVr8JsnLK0aRTTE0BlQUeobhqO1~d9P5U~LQD8QSIGRoEHJqZYJtttsI~1gPFFosJJ8eXqesrnMwPmb4R1MFSolGWG9swp3Oamkpb50hkHdpuqI9~vobK-UOuAJ8RfXd~uaBYPS3FG1NblAymB3VyK3FmQRp2Pb9uQeKmsPN08Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
             ></v-img>
+          </div>
+          <div class="d-flex align-center">
+            <br />
+            แก้ไขข้อมูลง่าย
+            <br />
+            แก้ไขข้อมูลด้วยตัวเอง
+            <br />
+            ไม่ต้องเขียนโปรแกรม
           </div>
         </v-col>
         <v-col cols="2">
