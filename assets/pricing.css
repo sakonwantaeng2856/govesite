@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300&display=swap');
+li {
+  font-size: 14px;
+  color: #000000;
+  text-align: center;
+}
+.price {
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 70px;
+  text-align: center;
+  color: #09240e;
+}
+.btn1 {
+  background: #21963e;
+}
+.premium {
+  color: white;
+}

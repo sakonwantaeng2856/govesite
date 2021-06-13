@@ -6,13 +6,15 @@
           <h1 class="text-center">ตารางเปรียบเทียบแพ็กเกจ</h1>
         </v-col>
       </v-row>
+
+      <!--- Connect --->
       <v-row class="mt-5">
         <v-col cols="4" xs="12">
           <div class="d-flex justify-center">
             <v-card class="rounded-xl" width="400" height="790" elevation="15">
               <v-row>
                 <v-col cols="12" class="text-center mt-5">
-                  <h3>Connect</h3>
+                  <h3 class="connect">Connect</h3>
                   <p>Cloud server 50 Mb</p>
                 </v-col>
               </v-row>
@@ -58,6 +60,7 @@
             </v-card>
           </div>
         </v-col>
+        <!--- Standard --->
         <v-col cols="4" xs="12">
           <div class="d-flex justify-center">
             <v-card class="rounded-xl" width="400" height="790" elevation="15">
@@ -109,6 +112,7 @@
             </v-card>
           </div>
         </v-col>
+        <!--- Premium --->
         <v-col cols="4" xs="12">
           <div class="d-flex justify-center">
             <v-card
@@ -157,7 +161,7 @@
               </v-row>
               <v-row class="pt-15">
                 <v-col cols="2"></v-col>
-                <v-col cols="8"><v-divider></v-divider></v-col>
+                <v-col cols="8 mt-6"><v-divider></v-divider></v-col>
                 <v-col cols="2"></v-col>
               </v-row>
               <v-row>
@@ -184,22 +188,5 @@ export default {}
 </script>
 
 <style>
-li {
-  font-size: 14px;
-  color: #000000;
-  text-align: center;
-}
-.price {
-  font-weight: bold;
-  font-size: 60px;
-  line-height: 70px;
-  text-align: center;
-  color: #09240e;
-}
-.btn1 {
-  background: #21963e;
-}
-.premium {
-  color: white;
-}
+@import '../assets/pricing.css';
 </style>
