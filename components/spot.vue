@@ -66,9 +66,56 @@
               src="https://s3-alpha-sig.figma.com/img/44c6/9ffa/acf42ef0cd70fbacdfe9871ad121b279?Expires=1623628800&Signature=WD0u~qNm-QoxLamDOdficE7NMsqvGfJ8cyvZFrtw-u8od9LFmL~FqpIYToSY9PxUqySX9fOezSLVAd4FEQWToFGm98Z3Bnf~ryIp9StLYQO0r6-U9y3QhTwpjg7rnsmMJZFRdyzu5dZdnJxs5vrKfelEWfR2oH9ZLiuQCtoLLTjS6pN4z2qjHdwJsMn3S2luLwLAenwAeMGiVxPYZDAp3enaKZT7FG-A3w0dV7QZq6hWz1y23PcVIV50tYVX4DCDR-UfAlpJ~x0Y0FOiP03-vovPEGYNwMneqxCuTUKpu5uwS7P6~MM3N~VmA98yAerMJMumgCym15gwBFzz7E7nqA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
             ></v-img>
           </div>
+          <div class="d-flex align-center">
+            <br />
+            แก้ไขข้อมูลง่าย
+            <br />
+            แก้ไขข้อมูลด้วยตัวเอง
+            <br />
+            ไม่ต้องเขียนโปรแกรม
+          </div>
         </v-col>
-        <v-col cols="2"></v-col>
-        <v-col cols="2"></v-col>
+        <v-col cols="3">
+          <div class="d-flex justify-center">
+            <v-img
+              max-width="100"
+              max-height="100"
+              src="https://s3-alpha-sig.figma.com/img/44c6/9ffa/acf42ef0cd70fbacdfe9871ad121b279?Expires=1623628800&Signature=WD0u~qNm-QoxLamDOdficE7NMsqvGfJ8cyvZFrtw-u8od9LFmL~FqpIYToSY9PxUqySX9fOezSLVAd4FEQWToFGm98Z3Bnf~ryIp9StLYQO0r6-U9y3QhTwpjg7rnsmMJZFRdyzu5dZdnJxs5vrKfelEWfR2oH9ZLiuQCtoLLTjS6pN4z2qjHdwJsMn3S2luLwLAenwAeMGiVxPYZDAp3enaKZT7FG-A3w0dV7QZq6hWz1y23PcVIV50tYVX4DCDR-UfAlpJ~x0Y0FOiP03-vovPEGYNwMneqxCuTUKpu5uwS7P6~MM3N~VmA98yAerMJMumgCym15gwBFzz7E7nqA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            ></v-img>
+          </div>
+          <div class="d-flex align-center">
+            <br />
+            แก้ไขข้อมูลง่าย
+            <br />
+            แก้ไขข้อมูลด้วยตัวเอง
+            <br />
+            ไม่ต้องเขียนโปรแกรม
+          </div>
+        </v-col>
+        <v-col cols="2">
+          <div class="d-flex justify-center">
+            <v-img
+              max-width="100"
+              max-height="100"
+              src="https://s3-alpha-sig.figma.com/img/44c6/9ffa/acf42ef0cd70fbacdfe9871ad121b279?Expires=1623628800&Signature=WD0u~qNm-QoxLamDOdficE7NMsqvGfJ8cyvZFrtw-u8od9LFmL~FqpIYToSY9PxUqySX9fOezSLVAd4FEQWToFGm98Z3Bnf~ryIp9StLYQO0r6-U9y3QhTwpjg7rnsmMJZFRdyzu5dZdnJxs5vrKfelEWfR2oH9ZLiuQCtoLLTjS6pN4z2qjHdwJsMn3S2luLwLAenwAeMGiVxPYZDAp3enaKZT7FG-A3w0dV7QZq6hWz1y23PcVIV50tYVX4DCDR-UfAlpJ~x0Y0FOiP03-vovPEGYNwMneqxCuTUKpu5uwS7P6~MM3N~VmA98yAerMJMumgCym15gwBFzz7E7nqA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+            ></v-img>
+          </div>
+          <div class="d-flex align-center">
+            <br />
+            แก้ไขข้อมูลง่าย
+            <br />
+            แก้ไขข้อมูลด้วยตัวเอง
+            <br />
+            ไม่ต้องเขียนโปรแกรม
+          </div>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col cols="12">
+          <div class="d-flex justify-center">
+            <v-btn class="mt-5" color="success">ทดลองใช้งาน</v-btn>
+          </div>
+        </v-col>
       </v-row>
     </v-container>
   </div>
