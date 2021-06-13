@@ -1,11 +1,13 @@
 <template>
   <div class="app">
-    <v-container fluid>
-      <v-row class="bg">
-        <v-col cols="6" class="bg-1">
+    <v-container fluid class="mt-5">
+      <v-row class="bg mt-5">
+        <v-col cols="6" class="bg-1 mt-3">
           <div class="mr-5 mt-5">
             <v-col class="mt-5">
-              <h1 class="text1 float-right">ระบบเว็บไซต์หน่วยงานสำเร็จรูป</h1>
+              <h1 class="text1 float-right mt-5">
+                ระบบเว็บไซต์หน่วยงานสำเร็จรูป
+              </h1>
             </v-col>
             <v-col class="mt-5">
               <h3 class="text2 float-right mt-4">
@@ -17,8 +19,8 @@
                 MANAGE YOUR ORGANIZATION , EASY , FAST , BEAUTIFUL
               </h3>
             </v-col>
-            <v-col class="float-right">
-              <v-btn class="float-right mt-3" color="success"
+            <v-col class="float-right mt-5">
+              <v-btn class="float-right mt-5" color="success"
                 >ทดลองใช้งาน</v-btn
               >
             </v-col>
@@ -30,7 +32,7 @@
           </div>
         </v-col>
         <v-col cols="6">
-          <div class="d-flex justify-center">
+          <div class="d-flex justify-center mt-5">
             <v-img
               max-height="370"
               max-width="450"

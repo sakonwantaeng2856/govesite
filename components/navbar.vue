@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-app-bar flat color="white">
+    <v-app-bar fixed flat color="white">
       <v-col cols="4">
         <v-img
           max-width="268"
@@ -8,8 +8,8 @@
         ></v-img>
       </v-col>
       <v-col cols="4" class="text-center">
-        <a href="" class="ml-5 nuxt-link-active">คุณสมบัติ</a>
-        <a href="" class="ml-5">แพคเกจ</a>
+        <a href="#spot" class="ml-5 nuxt-link-active">คุณสมบัติ</a>
+        <a href="" class="ml-5 nuxt-link-active">แพคเกจ</a>
         <a href="" class="ml-5">ติดต่อเรา</a>
       </v-col>
       <v-col cols="4">

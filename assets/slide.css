@@ -4,10 +4,12 @@
 }
 .bg {
   background-color: #f1f1f1;
+  height: 450px;
 }
 .bg-1 {
   background-color: #e0e0e0;
   border-radius: 0px 84px 84px 0px;
+  height: 438px;
 }
 .day {
   color: rgb(255, 0, 0);
