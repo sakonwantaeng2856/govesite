@@ -1,9 +1,9 @@
 <template>
-  <div class="app">
+  <div class="app pricing" id="pricing">
     <v-container>
       <v-row class="mt-5">
         <v-col cols="12" sm="12">
-          <h1 class="text-center">ตารางเปรียบเทียบแพ็กเกจ</h1>
+          <h1 class="table text-center">ตารางเปรียบเทียบแพ็กเกจ</h1>
         </v-col>
       </v-row>
 

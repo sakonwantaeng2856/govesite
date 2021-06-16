@@ -1,0 +1,24 @@
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+.green {
+  color: rgb(0, 0, 0);
+}
+.text-center {
+  font-family: 'Kanit', sans-serif;
+  font-style: Medium;
+  font-size: 15px;
+  line-height: 18px;
+  line-height: 100%;
+  margin: auto;
+  align: Center;
+  vertical-align: Center;
+  letter-spacing: -1.5%;
+  fill: Solid;
+  color: #09240e;
+}
+html {
+  scroll-behavior: smooth;
+}

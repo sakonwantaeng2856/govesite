@@ -2,15 +2,16 @@
   <div>
     <v-app-bar fixed flat color="white">
       <v-col cols="4">
-        <v-img
-          max-width="268"
-          src="https://s3-alpha-sig.figma.com/img/f3a8/828d/c89176f9a2b21f7594514cf37464f3f2?Expires=1623628800&Signature=NdzZeaTiSbe7tYByVABtpyOxGVceW2S-suXc5MB~oYy8xTm5Em5faWRA7KSGaecO661tbOIw2Bu9oBy4getfCVcWTTlMLl9rpmEfe3e1m5CpoSzqlVrFFqJlHM22vqKjYoC473cOhPnZqyEHPhxoPvmJCSK6Mexr-XV3fRAhz-Ra4YJz7DMQpy1K0Kl1F-XPDpjfxSpTNWJ97cmRpGD6WJxLPxUJkM92ai6XDNJPnCw-my4VYRlJPqhE-VgaO8KsmP-NyN3LFcXBIkP6XmdqKhl30E~PxBTlqrWa3TyXcKw6CdMDKnUX~giEPS4YbzZOG2U48DYXyCJbsTdiTRtwjg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
-        ></v-img>
+        <img
+          width="300"
+          height="55"
+          src="../assets/logo/Logo-newgovesite.gif"
+        />
       </v-col>
       <v-col cols="4" class="text-center">
         <a href="#spot" class="ml-5 nuxt-link-active">คุณสมบัติ</a>
-        <a href="" class="ml-5 nuxt-link-active">แพคเกจ</a>
-        <a href="" class="ml-5">ติดต่อเรา</a>
+        <a href="#pricing" class="ml-5 nuxt-link-active">แพคเกจ</a>
+        <a href="#contact" class="ml-5 nuxt-link-active">ติดต่อเรา</a>
       </v-col>
       <v-col cols="4">
         <div class="float-right">
@@ -27,25 +28,5 @@ export default {}
 </script>
 
 <style>
-/* @import './assets/index.css'; */
-a:link,
-a:visited {
-  text-decoration: none;
-  color: black;
-}
-.green {
-  color: white;
-}
-.text-center {
-  font-family: 'Kanit', sans-serif;
-  font-style: Medium;
-  font-size: 15px;
-  line-height: 18px;
-  line-height: 100%;
-  align: Center;
-  vertical-align: Center;
-  letter-spacing: -1.5%;
-  fill: Solid;
-  color: #09240e;
-}
+@import '../assets/navbar.css';
 </style>
