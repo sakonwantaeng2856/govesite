@@ -11,11 +11,11 @@
       <v-row class="mt-5">
         <v-col cols="4" xs="12">
           <div class="d-flex justify-center">
-            <v-card class="rounded-xl" width="400" height="790" elevation="15">
+            <v-card class="rounded-xl" width="400" height="830" elevation="15">
               <v-row>
                 <v-col cols="12" class="text-center mt-5">
-                  <h3 class="connect">Connect</h3>
-                  <p>Cloud server 50 Mb</p>
+                  <h3 class="connect">CONNECT</h3>
+                  <p class="mt-2">Cloud server 50 Mb</p>
                 </v-col>
               </v-row>
               <v-row>
@@ -24,7 +24,7 @@
                 <v-col cols="2"></v-col>
               </v-row>
               <v-row>
-                <v-col cols="12">
+                <v-col class="conandstd" cols="12">
                   <li>เพิ่ม ลบ แก้ไข เนื้อหาเว็บไซต์ได้ด้วยตัวเอง</li>
                   <li>เปลี่ยนภาพ Slide กิจกรรมของหน่วยงาน</li>
                   <li>
@@ -39,7 +39,7 @@
                   <li>Theme เว็บไซต์มาตราฐาน</li>
                 </v-col>
               </v-row>
-              <v-row class="pt-15">
+              <v-row class="pt-9">
                 <v-col cols="2"></v-col>
                 <v-col cols="8" class="pt-16 mt-8"
                   ><v-divider></v-divider
@@ -63,11 +63,11 @@
         <!--- Standard --->
         <v-col cols="4" xs="12">
           <div class="d-flex justify-center">
-            <v-card class="rounded-xl" width="400" height="790" elevation="15">
+            <v-card class="rounded-xl" width="400" height="830" elevation="15">
               <v-row>
                 <v-col cols="12" class="text-center mt-5">
-                  <h3>Standard</h3>
-                  <p>Cloud server 4GB</p>
+                  <h3>STANDARD</h3>
+                  <p class="mt-2">Cloud server 4GB</p>
                 </v-col>
               </v-row>
               <v-row>
@@ -76,7 +76,7 @@
                 <v-col cols="2"></v-col>
               </v-row>
               <v-row>
-                <v-col cols="12">
+                <v-col class="conandstd" cols="12">
                   <li>เพิ่ม ลบ แก้ไข เนื้อหาเว็บไซต์ได้ด้วยตัวเอง</li>
                   <li>เปลี่ยนภาพ Slide กิจกรรมของหน่วยงาน</li>
                   <li>
@@ -91,7 +91,7 @@
                   <li>Theme เว็บไซต์มาตราฐาน</li>
                 </v-col>
               </v-row>
-              <v-row class="pt-15">
+              <v-row class="pt-10">
                 <v-col cols="2"></v-col>
                 <v-col cols="8" class="pt-16 mt-8"
                   ><v-divider></v-divider
@@ -119,13 +119,13 @@
               class="rounded-xl"
               color="success"
               width="400"
-              height="790"
+              height="830"
               elevation="15"
             >
               <v-row>
                 <v-col cols="12" class="text-center mt-5">
-                  <h3 class="premium">Premium</h3>
-                  <p>Cloud server 4GB</p>
+                  <h3 class="premium">PREMIUM</h3>
+                  <p class="mt-2">Cloud server 4GB</p>
                 </v-col>
               </v-row>
               <v-row>
@@ -134,7 +134,7 @@
                 <v-col cols="2"></v-col>
               </v-row>
               <v-row>
-                <v-col cols="12">
+                <v-col class="pre" cols="12">
                   <li class="premium">จดทะเบียน .com หรือ .go.th</li>
                   <li class="premium">
                     Email @ชื่อเว็บไซค์หน่วยงาน ( 1 Email)
@@ -159,7 +159,7 @@
                   <li class="premium">ไม่แสดงโฆษณา</li>
                 </v-col>
               </v-row>
-              <v-row class="pt-15">
+              <v-row class="pt-3">
                 <v-col cols="2"></v-col>
                 <v-col cols="8 mt-6"><v-divider></v-divider></v-col>
                 <v-col cols="2"></v-col>

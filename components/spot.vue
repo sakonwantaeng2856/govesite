@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-8 mb-8 spot" id="spot">
+  <div id="spot" class="container mt-8 mb-8 spot">
     <div class="head1 mt-5 text-center">
       <h1 class="web1 mb-4">เว็บไซต์หน่วยงานสำเร็จรูป ใช้งานง่าย ไม่ยุ่งยาก</h1>
       <div class="web2 mt-5">
@@ -112,9 +112,10 @@
 
 <script>
 export default {
-  name: 'spot',
+  name: 'Spot',
 }
 </script>
+
 <style scoped>
 @import '../assets/spot.css';
 </style>

@@ -3,7 +3,7 @@
     <Navbar />
     <Silde />
     <spot />
-    <!-- <feaure /> -->
+    <feaure />
     <pricing />
     <contact />
     <footerA />
@@ -16,7 +16,7 @@ import spot from '~/components/spot.vue'
 import pricing from '~/components/pricing.vue'
 import footerA from '~/components/footerA.vue'
 import contact from '~/components/contact.vue'
-// import feaure from '~/components/feaure.vue'
+import feaure from '~/components/feaure.vue'
 export default {
   components: {
     spot,
@@ -25,7 +25,7 @@ export default {
     pricing,
     footerA,
     contact,
-    // feaure,
+    feaure,
   },
 }
 </script>

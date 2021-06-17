@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
 li {
   font-size: 14px;
   color: #000000;
@@ -18,10 +19,26 @@ li {
   color: white;
 }
 .pricing {
-  padding-top: 50px;
-  margin: 50px;
+  padding-top: 20px;
+  margin: 40px;
 }
 .table {
   font-family: 'Kanit', sans-serif;
   font-size: 50px;
+}
+.connect {
+  font-family: Roboto;
+  font-style: Bold;
+  font-size: 20px;
+  line-height: 35px;
+  line-height: 100%;
+  align: Center;
+}
+.conandstd {
+  font-family: 'Kanit', sans-serif;
+  line-height: 30px;
+}
+.pre {
+  font-family: 'Kanit', sans-serif;
+  line-height: 30px;
 }
