@@ -15,8 +15,11 @@
       </v-col>
       <v-col cols="4">
         <div class="float-right">
-          <a href="/login" class="mr-5">เข้าสู่ระบบ</a>
-          <v-btn class="green" color="success">สมัครใช้งาน</v-btn>
+          <NuxtLink to="/login" class="mr-5">เข้าสู่ระบบ</NuxtLink> |
+          &ensp;&ensp;
+          <v-btn to="/register" class="green" color="success"
+            >สมัครใช้งาน</v-btn
+          >
         </div>
       </v-col>
     </v-app-bar>
